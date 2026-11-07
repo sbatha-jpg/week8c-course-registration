@@ -1,2 +1,1 @@
-Online Student Course Registration Feature
-Students can register for different courses.
+This is my feature branch 
